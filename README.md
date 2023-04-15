@@ -30,4 +30,4 @@ pip install -r pre-requisites.txt
 
 Step 2:
 
-Run python3 complete code.ipynb
+Run python3 complete_code.ipynb
