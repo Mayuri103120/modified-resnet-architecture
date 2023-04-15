@@ -24,10 +24,10 @@ CIFAR-10
 
 Step 1:
 
-Install dependencies found in 
+Install dependencies found in pre-requisites.txt
 
-pip install -r requirements.txt
+pip install -r pre-requisites.txt
 
 Step 2:
 
-Run python3 resnet_18.py
+Run python3 complete code.ipynb
